@@ -19,7 +19,7 @@
   "notificationWords": [""],
 
   "webhookSpam": {
-    "message": "RAIDED WITH AVARICE @everyone",
+    "message": "RAIDED BY GRIFFITH @everyone",
     "avatar_url": ""
   },
 
