@@ -1,6 +1,6 @@
 {
   "token": "",
-  "prefix": ">",
+  "prefix": ",",
   "delete_timeout": 45,
 
   "afk_message": "Sorry, I'm currently not available!",
